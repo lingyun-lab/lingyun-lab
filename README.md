@@ -8,4 +8,3 @@
 
 - **DaoVibe** · AI 原生无代码平台，展示团队工作台、项目协作和任务会话。[交互演示](https://lingyun-lab.github.io/daovibe-demo/)
 - **智慧医院** · 预约挂号、就诊卡和体检服务管理。[患者端](https://lingyun-lab.github.io/smart-hospital-preview/#/pages/home/index) · [管理端](https://lingyun-lab.github.io/smart-hospital-preview/admin/)
-- **人才交付管理平台** · 从招聘、面试排期到项目成员、考勤和结算。[交互演示](https://lingyun-lab.github.io/talent-delivery-preview/)
